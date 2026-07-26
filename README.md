@@ -1,4 +1,4 @@
-# Behavioural Data Scientist
+# Mental Health Behavioural Data Science
 Technical Skills: SQL, R
 
 ## Featured projects
