@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/305615995?v=4" alt="Kaiserenrose Avatar" width="180" height="180" style="border-radius: 50%;">
-</p>
-
 # Mental Health Behavioural Data Science
 Technical Skills: SQL, R
 
