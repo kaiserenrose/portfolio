@@ -2,7 +2,8 @@
 SQL, R
 
 # Featured projects
-### <a href="https://github.com/kaiserenrose/sleep_and_social_anxiety.git">Sleep and mood</a>  
+## Sleep and mood
+https://github.com/kaiserenrose/sleep_and_social_anxiety.git
 *What it does:* Analysing self-reported social anxiety level against sleep hours to find out if sleep correlates with social anxiety.  
 *Tech stack:* R
 
