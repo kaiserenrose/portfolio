@@ -1,7 +1,6 @@
-theme: jekyll-theme-minimal
-
 title: Kai Seren Rose
-title_image: /assets/kaiserenrose_800kb.png
-description: Mental Health Behavioural Data Science
-
+logo: /assets/kaiserenrose_800kb.png
+description: Mental Health Behavioural Data Scientist
 show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
