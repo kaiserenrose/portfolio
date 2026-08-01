@@ -1,5 +1,5 @@
-# Mental Health Behavioural Data Science
-Technical Skills: SQL, R
+## Technical Skills
+SQL, R
 
 ## Featured projects
 **Sleep and mood https://github.com/kaiserenrose/sleep_and_social_anxiety.git**  
