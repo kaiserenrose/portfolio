@@ -1,5 +1,5 @@
 ## Technical Skills
-SQL, R
+SQL and R
 
 ## Featured projects
 ### Sleep and social anxiety
