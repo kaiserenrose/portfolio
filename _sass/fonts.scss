@@ -1,27 +1,29 @@
 @font-face {
     font-family: 'Quattrocento';
+    font-weight: normal;
+    font-style: normal;
     src: url('Quattrocento.eot');
     src: url('Quattrocento.eot?#iefix') format('embedded-opentype'),
+        local('Quattrocento'),
+        local('Quattrocento'),
         url('Quattrocento.woff2') format('woff2'),
         url('Quattrocento.woff') format('woff'),
         url('Quattrocento.ttf') format('truetype'),
         url('Quattrocento.svg#Quattrocento') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
     font-family: 'Quattrocento';
+    font-weight: bold;
+    font-style: normal;
     src: url('Quattrocento-Bold.eot');
     src: url('Quattrocento-Bold.eot?#iefix') format('embedded-opentype'),
+        local('Quattrocento bold'),
+        local('Quattrocento-bold'),
         url('Quattrocento-Bold.woff2') format('woff2'),
         url('Quattrocento-Bold.woff') format('woff'),
         url('Quattrocento-Bold.ttf') format('truetype'),
         url('Quattrocento-Bold.svg#Quattrocento-Bold') format('svg');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
